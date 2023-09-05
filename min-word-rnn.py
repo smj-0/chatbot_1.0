@@ -1,5 +1,5 @@
 """
-A minimal word-level vanilla RNN model.  Modified by Andy J. Wagers from the
+A minimal word-level vanilla RNN model.  Modified from the
 minimal character-level Vanilla RNN model. Written by Andrej Karpathy (@karpathy)
 BSD License
 """

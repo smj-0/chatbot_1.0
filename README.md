@@ -1,5 +1,5 @@
 # chatbot_1.0
-A simple chatbot based off a Minimalist Recurrent Neural Network algorithm.  The original script was designed as a character base algorithm, it has been modified to be a word based algorithm.  Initially, this model will be trained on Shakespeare but it theory could be trained on any text.
+A simple chatbot based off a Minimalist Recurrent Neural Network algorithm.  The original script was designed as a character base algorithm, it has been modified to be a word based algorithm.  Originally, this model will be trained on Shakespeare but it theory could be trained on any text. We are curretly working to train it on varied sources.
 
 The codes is based on:
 https://gist.github.com/karpathy/d4dee566867f8291f086#file-min-char-rnn-py,<br>

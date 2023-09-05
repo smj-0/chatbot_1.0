@@ -1,5 +1,5 @@
 '''
-This file will contain the training portion of the rnn word chatbot.
+This file will contain the training portion of the rnn word chatbot
 Review for source control
 '''
 
