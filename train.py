@@ -1,7 +1,7 @@
-'''
+''''
 This file will contain the training portion of the rnn word chatbot
 Review for source control
-'''
+''''
 
 import tensorflow as tf
 from utils import TextLoader
